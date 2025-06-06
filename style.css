@@ -55,8 +55,8 @@ body{
 
 .Kirby{
     position: absolute;
-    font-size: 10px;
-    left: 20%;
+    font-size: 14px;
+    left: 25%;
     top: 20%;
     z-index: 1;
     transform: rotate(45deg);
