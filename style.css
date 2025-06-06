@@ -55,7 +55,7 @@ body{
 
 .Kirby{
     position: absolute;
-    font-size: 14px;
+    font-size: 12px;
     left: 25%;
     top: 20%;
     z-index: 1;
